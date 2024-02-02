@@ -9,7 +9,7 @@ Benvinguts al meu repositori de python
 ## Activitat Bateries (Bateria 1)
 
 - [Problema 1](Batery1.py)
-- [Problema 1](Batery1.py)
+- [Problema 2](Batery2.py)
 - [Problema 1](Batery1.py)
 - [Problema 1](Batery1.py)
 - [Problema 1](Batery1.py)
