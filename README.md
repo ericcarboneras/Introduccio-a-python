@@ -22,7 +22,11 @@ Benvinguts al meu repositori de python
 - [Problema 5](Batery2.5.py)
 
 ## Activitat Bateries (Bateria 3)
-
+- [Problema 1](Batery3.1.py)
+- [Problema 1](Batery3.2.py)
+- [Problema 1](Batery3.3.py)
+- [Problema 1](Batery3.4.py)
+- [Problema 1](Batery3.5.py)
 
 
 
