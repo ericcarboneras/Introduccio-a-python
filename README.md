@@ -11,8 +11,8 @@ Benvinguts al meu repositori de python
 - [Problema 1](Batery1.py)
 - [Problema 2](Batery2.py)
 - [Problema 3](Batery3.py)
-- [Problema 4](Batery.py)
-- 
+- [Problema 4](Batery4.py)
+- [Problema 5](Batery4.py)
 
 
 
