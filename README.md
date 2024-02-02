@@ -15,7 +15,11 @@ Benvinguts al meu repositori de python
 - [Problema 5](Batery5.py)
 
 ## Activitat Bateries (Bateria 2)
-
+- [Problema 1](Batery2.1.py)
+- [Problema 2](Batery1.py)
+- [Problema 3](Batery1.py)
+- [Problema 4](Batery1.py)
+- [Problema 5](Batery1.py)
 
 
 
