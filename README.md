@@ -18,8 +18,11 @@ Benvinguts al meu repositori de python
 - [Problema 1](Batery2.1.py)
 - [Problema 2](Batery2.2.py)
 - [Problema 3](Batery2.3.py)
-- [Problema 4](Batery1.py)
-- [Problema 5](Batery1.py)
+- [Problema 4](Batery2.4.py)
+- [Problema 5](Batery2.5.py)
+
+## Activitat Bateries (Bateria 3)
+
 
 
 
