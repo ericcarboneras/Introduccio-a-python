@@ -10,9 +10,7 @@ Benvinguts al meu repositori de python
 
 - [Problema 1](Batery1.py)
 - [Problema 2](Batery2.py)
-- [Problema 1](Batery1.py)
-- [Problema 1](Batery1.py)
-- [Problema 1](Batery1.py)
+
 
 
 
