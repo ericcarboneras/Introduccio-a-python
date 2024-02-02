@@ -12,7 +12,9 @@ Benvinguts al meu repositori de python
 - [Problema 2](Batery2.py)
 - [Problema 3](Batery3.py)
 - [Problema 4](Batery4.py)
-- [Problema 5](Batery4.py)
+- [Problema 5](Batery5.py)
+
+## Activitat Bateries (Bateria 2)
 
 
 
