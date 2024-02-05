@@ -29,8 +29,8 @@ Benvinguts al meu repositori de python
 - [Problema 5](Batery3.5.py)
 
 ## Bucles For
-- [Problema 1](Activitat.1.py)
-- [Problema 2](Batery2.2.py)
+- [Activitat 1](Activitat1.py)
+- [Activitat 2](Activitat.2.py)
 
 
 
