@@ -28,6 +28,22 @@ Benvinguts al meu repositori de python
 - [Problema 4](Batery3.4.py)
 - [Problema 5](Batery3.5.py)
 
+
+## Activitat Bateries (Bateria 4)
+- [Problema 1](Batery3.1.py)
+- [Problema 2](Batery3.2.py)
+- [Problema 3](Batery3.3.py)
+- [Problema 4](Batery3.4.py)
+- [Problema 5](Batery3.5.py)
+
+
+
+
+
+
+
+
+
 ## Bucles For
 - [Activitat 1](Activitat1.py)
 - [Activitat 2](Activitat.2.py)
