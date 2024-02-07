@@ -36,7 +36,7 @@ Benvinguts al meu repositori de python
 
 
 ## Bucles For
-- [Activitat 1](Activitat1.py)
+- [Activitat 1](Activitat1.1.py)
 - [Activitat 2](Activitat.2.py)
 
 ## Concatenar strings
