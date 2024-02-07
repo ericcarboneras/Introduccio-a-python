@@ -39,5 +39,7 @@ Benvinguts al meu repositori de python
 - [Activitat 1](Activitat1.py)
 - [Activitat 2](Activitat.2.py)
 
-
+## Concatenar strings
+- [Activitat 1](Activitat1.py)
+- [Activitat 2](Activitat.2.py)
 
