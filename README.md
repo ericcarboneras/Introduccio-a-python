@@ -32,7 +32,7 @@ Benvinguts al meu repositori de python
 ## Activitat Bateries (Bateria 4)
 - [Problema 1](Bateria4.1.py)
 - [Problema 2](Bateria4.2.py)
-- [Problema 3](Batery3.3.py)
+- [Problema 3](Bateria4.3.py)
 
 
 ## Bucles For
