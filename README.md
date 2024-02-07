@@ -41,5 +41,5 @@ Benvinguts al meu repositori de python
 
 ## Concatenar strings
 - [Activitat 1](Activitat1.py)
-- [Activitat 2](Activitat.2.py)
-
+- [Activitat 2](Activitat1.2.py)
+- [Activitat 3](Activitat1.py)
