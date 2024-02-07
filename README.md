@@ -30,8 +30,8 @@ Benvinguts al meu repositori de python
 
 
 ## Activitat Bateries (Bateria 4)
-- [Problema 1](Bateria4.1)
-- [Problema 2](Batery3.2.py)
+- [Problema 1](Bateria4.1.py)
+- [Problema 2](Batery4.2.py)
 - [Problema 3](Batery3.3.py)
 - [Problema 4](Batery3.4.py)
 - [Problema 5](Batery3.5.py)
