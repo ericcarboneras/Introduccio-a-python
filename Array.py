@@ -16,8 +16,10 @@ comunitat.remove("Aragorn")
 primer_alfabeticament = min(comunitat)
 print(primer_alfabeticament)
 
+comunitat.append("Arwen")
 comunitat.sort()
 print(comunitat)
+
 
 
 
