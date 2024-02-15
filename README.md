@@ -43,3 +43,7 @@ Benvinguts al meu repositori de python
 - [Activitat 1](activitat1.1.py)
 - [Activitat 2](activitat1.2.py)
 - [Activitat 3](aactivitat1.3.py)
+
+## Ordenar un array
+- [Activitat 1](Array.py)
+
