@@ -34,6 +34,11 @@ Benvinguts al meu repositori de python
 - [Problema 2](Bateria4.2.py)
 - [Problema 3](Bateria4.3.py)
 
+## Bateria 5 - Llistes (arrays)
+- [Problema 2](Batery2.2.py)
+- [Problema 3](Batery2.3.py)
+- [Problema 4](Batery2.4.py)
+- [Problema 5](Batery2.5.py)
 
 ## Bucles For
 - [Activitat 1](Activitat1.1.py)
