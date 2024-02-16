@@ -37,8 +37,8 @@ Benvinguts al meu repositori de python
 ## Bateria 5 - Llistes (arrays)
 - [Problema 1](Problema19.py)
 - [Problema 2](Problema20.py)
-- [Problema 4](Problema21.py)
-- [Problema 5](Problema22.py)
+- [Problema 3](Problema21.py)
+- [Problema 4](Problema22.py)
 
 ## Bucles For
 - [Activitat 1](Activitat1.1.py)
