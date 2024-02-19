@@ -52,3 +52,6 @@ Benvinguts al meu repositori de python
 ## Ordenar un array
 - [Activitat 1](Array.py)
 
+## Calculadora
+- [Activitat 1](pycalc.py)
+
