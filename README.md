@@ -58,6 +58,6 @@ Benvinguts al meu repositori de python
 
 ## Numeros Aleatoris
 - [Activitats 1-5](daus.py)
-- [Activitats 1-5](daus.py)
+
 
 
