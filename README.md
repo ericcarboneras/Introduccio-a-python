@@ -55,3 +55,13 @@ Benvinguts al meu repositori de python
 ## Calculadora
 - [Activitat 1](pycalc.py)
 
+
+## Numeros Aleatoris
+-
+-
+-
+-
+-
+-
+
+
