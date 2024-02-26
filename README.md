@@ -58,6 +58,7 @@ Benvinguts al meu repositori de python
 
 ## Numeros Aleatoris
 - [Activitats 1-5](daus.py)
+- [Activitat 6](joc.py)
 
-
-
+## Controls d'excepcions
+- [Activitats 1-4](Activitats1-4.py)
