@@ -77,4 +77,4 @@ Benvinguts al meu repositori de python
 
 
 ## Vides
-- [Activitat 1](moviment.py)
+- [Activitat 1](vides.py) 
