@@ -1,15 +1,13 @@
-lives = int(input("Quantes vides tens? "))
-position = 0
+posicion_asterisco = 0
 
-while lives:
-    print("Vides:", lives)
-    print(" " * position + "*")
-    move = input("'a' (esquerra), 'd' (dreta), 'q' (sortir): ")
-    if move == 'a': position = max(0, position - 1)
-    if move == 'd': position = min(20, position + 1)
-    if move == 'q': break
-    if move == 'k':
-        lives -= 1
-        if lives == 0:
-            print("Game Over")
-            break
+while True:
+    os.system('cls' if os.name == 'nt' else 'clear')
+    print(" " * posicion_asterisco + "*")
+    movimiento = input("Presiona 'a' para mover el asterisco a la izquierda, 'd' para moverlo a la derecha, o 'q' para salir: ")
+    
+    if movimiento == 'a':
+        posicion_asterisco = max(0, posicion_asterisco - 1)
+    elif movimiento == 'd':
+        posicion_asterisco = min(20, posicion_asterisco + 1)
+    elif movimiento == 'q':
+        break
