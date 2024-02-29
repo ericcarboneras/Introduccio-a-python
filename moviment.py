@@ -1,13 +1,16 @@
-posicion_asterisco = 0
-
+posicio_asterisc = 0
+AMPLADA = 20
 while True:
-    os.system('cls' if os.name == 'nt' else 'clear')
-    print(" " * posicion_asterisco + "*")
-    movimiento = input("Presiona 'a' para mover el asterisco a la izquierda, 'd' para moverlo a la derecha, o 'q' para salir: ")
     
-    if movimiento == 'a':
-        posicion_asterisco = max(0, posicion_asterisco - 1)
-    elif movimiento == 'd':
-        posicion_asterisco = min(20, posicion_asterisco + 1)
-    elif movimiento == 'q':
-        break
+    cadena_asterisc = ""
+    for i in range(AMPLADA+1):
+        if posicio_asterisc == i:
+            cadena_asterisc += "*"
+        else:
+            cadena_asterisc += " "
+    print(cadena_asterisc)
+    moviment = input("")
+    if moviment == 'a' and posicio_asterisc > 0:
+            posicio_asterisc -= 1
+    elif moviment == 'd' and posicio_asterisc < AMPLADA:
+            posicio_asterisc += 1
