@@ -3,7 +3,7 @@ import pygame, sys
 
 WIDTH = 640
 HIGH = 480
-LOGO_IMAGE = "/home/alumne/Baixades/Peix.png"
+LOGO_IMAGE = "assets/Peix.png"
 CAPTION_TEXT = "Ocean Carboneras"
 # create a surface on screen that has the size of 640 x 480
 screen = pygame.display.set_mode((WIDTH, HIGH))
