@@ -1,24 +1,40 @@
-import tkinter as tk
+# import the pygame module, so you can use it
+import pygame, sys
 
-def center_window(window, width, height):
-    screen_width = window.winfo_screenwidth()
-    screen_height = window.winfo_screenheight()
-    x = (screen_width / 2) - (width / 2)
-    y = (screen_height / 2) - (height / 2)
-    window.geometry('%dx%d+%d+%d' % (width, height, x, y))
+WIDTH = 320
+HIGH = 200
+LOGO_IMAGE = "/home/alumne/Baixades/Mono.png"
 
-root = tk.Tk()
-root.title("Zoo X")
+CAPTION_TEXT = "Zoo Carboneras"
+# create a surface on screen that has the size of 640 x 480
+screen = pygame.display.set_mode((WIDTH, HIGH))
 
-center_window(root, 320, 200)
-
-root.configure(bg="#FFFF00")
-
-image_path = "/home/alumne/Baixades/Mono.png"
-
-image = tk.PhotoImage(file=image_path)
-
-label = tk.Label(root, image=image)
-label.pack()
-
-root.mainloop()
+# define a main function
+def main():
+    # initialize the pygame module
+    pygame.init()
+    # load and set the logo
+    logo = pygame.image.load(LOGO_IMAGE)
+    # set the logo of the screen
+    pygame.display.set_icon(logo)
+    # set the caption of the screen
+    pygame.display.set_caption(CAPTION_TEXT)    
+    # define a variable to control the main loop
+    running = True
+    # main loop
+    while running:
+        # background set to BLACK
+        screen.fill((255, 255, 0))
+        # draw the screen
+        pygame.display.flip()
+    # poll for events
+    # pygame.QUIT event means the user clicked X to close your window
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            sys.exit()
+            running = False
+# run the main function only if this module is executed as the main script
+# (if you import this as a module then nothing is executed)
+if __name__ == "__main__":
+    # call the main function
+    main()
