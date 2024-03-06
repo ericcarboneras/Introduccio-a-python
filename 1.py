@@ -3,7 +3,7 @@ import pygame, sys
 
 WIDTH = 320
 HIGH = 200
-LOGO_IMAGE = "/home/alumne/Baixades/Mono.png"
+LOGO_IMAGE = "assets/Mono.png"
 
 CAPTION_TEXT = "Zoo Carboneras"
 # create a surface on screen that has the size of 640 x 480
