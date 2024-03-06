@@ -77,4 +77,10 @@ Benvinguts al meu repositori de python
 
 
 ## Vides
-- [Activitat 1](vides.py) 
+- [Activitat 1](vides.py)
+
+
+
+## Vides
+- [Activitat 1](1.py)
+- [Activitat 2](2.py)
