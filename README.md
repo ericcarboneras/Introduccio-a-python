@@ -81,8 +81,17 @@ Benvinguts al meu repositori de python
 
 
 
-## Vides
+## Dibuixar finestra
 - [Activitat 1](1.py)
 - [Activitat 2](2.py)
 - [Activitat 3](3.py)
 - [Activitat 4](4.py)
+
+
+## Mostrar imatge a Pygame
+- [Activitat 1](uno.py)
+- [Activitat 2](dos.py)
+- [Activitat 3](tres.py)
+- [Activitat 4](cuatro.py)
+- [Activitat 5](cinco.py)
+
