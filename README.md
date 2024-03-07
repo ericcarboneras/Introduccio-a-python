@@ -88,6 +88,7 @@ Benvinguts al meu repositori de python
 - [Activitat 4](4.py)
 
 
+
 ## Mostrar imatge a Pygame
 - [Activitat 1](uno.py)
 - [Activitat 2](dos.py)
