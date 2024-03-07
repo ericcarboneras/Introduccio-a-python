@@ -84,3 +84,5 @@ Benvinguts al meu repositori de python
 ## Vides
 - [Activitat 1](1.py)
 - [Activitat 2](2.py)
+- [Activitat 3](3.py)
+- [Activitat 4](4.py)
