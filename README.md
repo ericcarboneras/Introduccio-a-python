@@ -96,3 +96,13 @@ Benvinguts al meu repositori de python
 - [Activitat 4](cuatro.py)
 - [Activitat 5](cinco.py)
 
+
+
+## Colors
+- [Activitat 1](colors.py)
+
+
+
+
+## Formes
+- [Activitat 1](formes.py)
