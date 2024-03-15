@@ -21,9 +21,9 @@ while True:  # main game loop
     pantalla.fill(BLANC)
 
     # Dibujar la letra "E" usando rectángulos rojos
-    pygame.draw.rect(pantalla, VERMELL, pygame.Rect(100, 100, 400, 100))  # Parte horizontal superior de la "E"
-    pygame.draw.rect(pantalla, VERMELL, pygame.Rect(100, 100, 100, 400))  # Parte vertical izquierda de la "E"
-    pygame.draw.rect(pantalla, VERMELL, pygame.Rect(100, 250, 400, 100))  # Parte horizontal del medio de la "E"
-    pygame.draw.rect(pantalla, VERMELL, pygame.Rect(100, 400, 400, 100))  # Parte horizontal inferior de la "E"
+    pygame.draw.rect(pantalla, VERMELL, pygame.Rect(100, 100, 400, 100))  
+    pygame.draw.rect(pantalla, VERMELL, pygame.Rect(100, 100, 100, 400))  
+    pygame.draw.rect(pantalla, VERMELL, pygame.Rect(100, 250, 400, 100)) 
+    pygame.draw.rect(pantalla, VERMELL, pygame.Rect(100, 400, 400, 100))  
 
     pygame.display.update()
