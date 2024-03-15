@@ -111,4 +111,4 @@ Benvinguts al meu repositori de python
 
 ## Activitats formes
 - [Activitat 1](actividadUNO.py)
-- [Activitat 2](cinco.py)
+- [Activitat 2](actividadDOS.py)
