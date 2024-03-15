@@ -103,6 +103,10 @@ Benvinguts al meu repositori de python
 
 
 
+## Activitats formes
+- [Activitat 1](cuatro.py)
+- [Activitat 2](cinco.py)
+
 
 ## Formes
 - [Activitat 1](formes.py)
